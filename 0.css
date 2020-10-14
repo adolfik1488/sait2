@@ -1,0 +1,26 @@
+a:visited{
+	color:magenta;
+}
+a:link{
+	color:blue;
+}
+img{
+	width: 1500px;
+}
+h1{
+	background-color: maroon;
+}
+body{
+	background-image: url("D:\хтмл\Хорватия\bbb.jpg");
+}
+
+p{
+	font-family: arial, verdana, sans-serif;
+}
+a.tt:hover {
+	font-style: italic;
+	text-decoration:none;
+}
+a.tt{
+	text-decoration:none;
+}
